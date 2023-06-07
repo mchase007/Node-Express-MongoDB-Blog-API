@@ -1,3 +1,5 @@
+# Node-Express-MongoDB-Blog-API
+
 A Node.js REST API built with Express.js and MongoDB. The server allows CRUD operations for users and blogs. 
 
 The database contains two collections: ```users``` and ```posts```. 
